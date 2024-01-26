@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T22:23:54 IST" name="Default suite" finished-at="2023-06-20T22:23:54 IST" duration-ms="157">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T22:23:54 IST" name="Default test" finished-at="2023-06-20T22:23:54 IST" duration-ms="157">
+      <class name="com.test.TestNg">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="setUp" finished-at="2023-06-20T22:23:54 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="launchBrowser" finished-at="2023-06-20T22:23:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="login" finished-at="2023-06-20T22:23:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="enterURL" finished-at="2023-06-20T22:23:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTitleTest()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="googleTitleTest" finished-at="2023-06-20T22:23:54 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="logOut" finished-at="2023-06-20T22:23:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="enterURL" finished-at="2023-06-20T22:23:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTitleTest1()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="googleTitleTest1" finished-at="2023-06-20T22:23:54 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest1 -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="logOut" finished-at="2023-06-20T22:23:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="closeBrowser" finished-at="2023-06-20T22:23:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="deleteAllCookies()[pri:0, instance:com.test.TestNg@593aaf41]" started-at="2023-06-20T22:23:54 IST" name="deleteAllCookies" finished-at="2023-06-20T22:23:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+      </class> <!-- com.test.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
